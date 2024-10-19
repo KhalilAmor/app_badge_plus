@@ -23,4 +23,9 @@
     <uses-permission android:name="com.huawei.android.launcher.permission.CHANGE_BADGE" />
     <uses-permission android:name="com.huawei.android.launcher.permission.READ_SETTINGS" />
     <uses-permission android:name="com.huawei.android.launcher.permission.WRITE_SETTINGS" />
+
+
+    <!-- for Xiaomi -->
+    <uses-permission android:name="com.miui.home.launcher.permission.READ_SETTINGS"/>
+    <uses-permission android:name="com.miui.home.launcher.permission.WRITE_SETTINGS"/>      
 </manifest>
